@@ -12,3 +12,4 @@ Bug fix 1 26.01.2023
 Some changes in rebase branch
 
 Test_merge after rebase 1 changes
+Test_merge after rebase 2 changes
